@@ -141,7 +141,7 @@ p {
 @media (max-width: 480px) {
 
   body {
-    background: linear-gradient(45deg, #235005 0%, #00ff6a 100%);
+    background: linear-gradient(45deg, #500547 0%, #d611bf 100%);
     font-size: 1.6rem;
 
     display: grid;
